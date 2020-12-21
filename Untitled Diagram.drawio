@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T03:23:10.662Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="6kl2b_32OwKbLqnz_UkF" version="14.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T04:04:59.090Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="5BZbWfhDCn0pFM_C3ls8" version="14.0.5" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="1498" dy="930" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
+    <mxGraphModel dx="1498" dy="852" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -26,12 +26,6 @@
         </mxCell>
         <mxCell id="24964f25f45c63f1-5" value="GET&amp;amp;POST" style="shadow=0;dashed=0;html=1;strokeColor=none;shape=mxgraph.mscae.enterprise.gateway;fillColor=#FFFFFF;rounded=0;fontSize=12;fontColor=#FFFFFF;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="856" y="758" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="23046e2b9bb16c14-29" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#FFFFFF;shape=mxgraph.azure.virtual_machine;rounded=1;shadow=0;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="778" y="563" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="23046e2b9bb16c14-31" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#FFFFFF;shape=mxgraph.azure.virtual_machine;rounded=1;shadow=0;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="778" y="623" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="23046e2b9bb16c14-84" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#F04D22;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=none;arcSize=6;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="360" y="990" width="400" height="102" as="geometry" />
@@ -72,15 +66,6 @@
         <mxCell id="23046e2b9bb16c14-111" value="Express&lt;div&gt;Storage&lt;/div&gt;" style="shadow=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;shape=mxgraph.mscae.cloud.azure_storage;fillColor=#FFFFFF;rounded=0;fontSize=10;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="1344" y="1032" width="50" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="9K7WFx4v5aUW1t7_4o5F-8" value="固定位置、姿态" style="shadow=0;html=1;strokeColor=none;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;shape=mxgraph.azure.virtual_machine_feature;rounded=0;fontSize=10;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1031" width="50" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="9K7WFx4v5aUW1t7_4o5F-9" value="机器人单轴运动" style="shadow=0;html=1;strokeColor=none;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;shape=mxgraph.azure.virtual_machine_feature;rounded=0;fontSize=10;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1031" width="50" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="9K7WFx4v5aUW1t7_4o5F-10" value="机器人路径规划" style="shadow=0;html=1;strokeColor=none;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;shape=mxgraph.azure.virtual_machine_feature;rounded=0;fontSize=10;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1031" width="50" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="9K7WFx4v5aUW1t7_4o5F-23" style="html=1;startArrow=none;startFill=0;startSize=10;endArrow=none;endFill=0;endSize=10;strokeWidth=3;fontSize=11;fontColor=#FFFFFF;strokeColor=#FFFFFF;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.855;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="24964f25f45c63f1-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1020.2499999999995" y="765.25" as="sourcePoint" />
@@ -93,9 +78,6 @@
         <mxCell id="9K7WFx4v5aUW1t7_4o5F-24" value="Blockly" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=11;fontColor=#FFFFFF;align=center;strokeColor=#FFFFFF;dashed=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="920" y="520" width="86" height="163" as="geometry" />
         </mxCell>
-        <mxCell id="9K7WFx4v5aUW1t7_4o5F-25" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#FFFFFF;shape=mxgraph.azure.virtual_machine;rounded=1;shadow=0;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="938" y="600" width="50" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="9K7WFx4v5aUW1t7_4o5F-27" value="Front&amp;nbsp; End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="850.5" y="460" width="69" height="20" as="geometry" />
         </mxCell>
@@ -107,6 +89,24 @@
         </mxCell>
         <mxCell id="9K7WFx4v5aUW1t7_4o5F-36" value="Mongo&lt;br&gt;Database" style="verticalLabelPosition=top;html=1;verticalAlign=bottom;align=center;strokeColor=none;shape=mxgraph.azure.database;fontColor=#FFFFFF;fillColor=#FFFFFF;rounded=0;shadow=0;fontSize=10;labelPosition=center;" vertex="1" parent="1">
           <mxGeometry x="1266" y="1028.5" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9K7WFx4v5aUW1t7_4o5F-117" value="&lt;span style=&quot;font-size: 10px&quot;&gt;机器人单轴运动&lt;/span&gt;" style="verticalLabelPosition=top;html=1;verticalAlign=bottom;align=center;strokeColor=none;shape=mxgraph.azure.cloud_service_package_file;fontColor=#FFFFFF;gradientColor=#ffffff;fillColor=#FFFFFF;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="463.75" y="1028.5" width="42.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9K7WFx4v5aUW1t7_4o5F-118" value="&lt;span style=&quot;font-size: 10px&quot;&gt;固定位置、姿态&lt;/span&gt;" style="verticalLabelPosition=top;html=1;verticalAlign=bottom;align=center;strokeColor=none;shape=mxgraph.azure.cloud_service_package_file;fontColor=#FFFFFF;gradientColor=#ffffff;fillColor=#FFFFFF;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="573.75" y="1028.5" width="42.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9K7WFx4v5aUW1t7_4o5F-123" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;shape=mxgraph.azure.virtual_machine_feature;pointerEvents=1;fontColor=#FFFFFF;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="778" y="560.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9K7WFx4v5aUW1t7_4o5F-124" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;shape=mxgraph.azure.virtual_machine_feature;pointerEvents=1;fontColor=#FFFFFF;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="778" y="620.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9K7WFx4v5aUW1t7_4o5F-125" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;shape=mxgraph.azure.virtual_machine_feature;pointerEvents=1;fontColor=#FFFFFF;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="938" y="593" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9K7WFx4v5aUW1t7_4o5F-126" value="&lt;span style=&quot;font-size: 10px&quot;&gt;机器人路径规划&lt;/span&gt;" style="verticalLabelPosition=top;html=1;verticalAlign=bottom;align=center;strokeColor=none;shape=mxgraph.azure.cloud_service_package_file;fontColor=#FFFFFF;gradientColor=#ffffff;fillColor=#FFFFFF;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="683.75" y="1028.5" width="42.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
